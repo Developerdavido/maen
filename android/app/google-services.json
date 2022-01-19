@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "651666348880",
+    "firebase_url": "https://ecommerce-test-gh.firebaseio.com",
+    "project_id": "ecommerce-test-gh",
+    "storage_bucket": "ecommerce-test-gh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651666348880:android:a4316a0a09793f7c2b2a55",
+        "android_client_info": {
+          "package_name": "com.example.adminecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651666348880-rpg88mi53jrlndse7acpjsmrt2ahvqeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminecommerce",
+            "certificate_hash": "05874c21cd7f55b9d739cea08bdb7ecb0846b4c9"
+          }
+        },
+        {
+          "client_id": "651666348880-cebv9p731p5isq1542q71dgkic6to765.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PWOQy19KVV90m1Yhwr0w68oP9rM1S0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651666348880-cebv9p731p5isq1542q71dgkic6to765.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651666348880-5c9d8ns2dmpghir9vpcn090ts2osnv7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651666348880:android:2276241ec89975732b2a55",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651666348880-m1hqrp3kauahimkj61d2nma1ops2g0uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "05874c21cd7f55b9d739cea08bdb7ecb0846b4c9"
+          }
+        },
+        {
+          "client_id": "651666348880-cebv9p731p5isq1542q71dgkic6to765.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PWOQy19KVV90m1Yhwr0w68oP9rM1S0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651666348880-cebv9p731p5isq1542q71dgkic6to765.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651666348880-5c9d8ns2dmpghir9vpcn090ts2osnv7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651666348880:android:de315a6df7274e392b2a55",
+        "android_client_info": {
+          "package_name": "com.example.maen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651666348880-cebv9p731p5isq1542q71dgkic6to765.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PWOQy19KVV90m1Yhwr0w68oP9rM1S0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651666348880-cebv9p731p5isq1542q71dgkic6to765.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651666348880-5c9d8ns2dmpghir9vpcn090ts2osnv7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
